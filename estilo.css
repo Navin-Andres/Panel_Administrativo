@@ -36,3 +36,26 @@
     background-color: #e9ecef;
     color: #343a40;
 }
+
+
+/* formulario */
+.Formulario{
+background-color: #15B392;
+margin: 20px auto;
+width: 700px;
+padding: 30px;
+border-radius: 10px;
+font-size: 20px;
+
+
+}
+
+.mb-4{
+    text-align: center;
+    margin: 20px;
+}
+
+
+.lajugada{
+border-radius: 50px;
+}
